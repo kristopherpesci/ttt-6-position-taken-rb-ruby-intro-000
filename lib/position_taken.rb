@@ -3,7 +3,7 @@
 def position_taken? (array[index_number])
   if array[index_number] == " "
     "false"
-elseif array[index_number] == ""
+if-else array[index_number] == ""
   "false"
 else
   "true"
